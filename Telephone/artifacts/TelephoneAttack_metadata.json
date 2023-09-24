@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_target",
+						"type": "address"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Telephone/TelephoneAttack.sol": "TelephoneAttack"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Telephone/Telephone.sol": {
+			"keccak256": "0x65954b20b28e1aa04b8ac22a882ed5e32fd757f0bb23fae93ce18ab5cddb153e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c4fa6207ede4514a0e5015de93137f074bb34554725120bfc657d2aa5ad300cf",
+				"dweb:/ipfs/QmR5piuLKFbo1BiKoTPb6VVRNpNERNhx6p2BETDWRYPCmX"
+			]
+		},
+		"Telephone/TelephoneAttack.sol": {
+			"keccak256": "0xef5032c99df8e55b8c09406a5e5493ac135c6d090da6874ec7ebc2d45e25d3ad",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8c4feb561bd838ed21e820b53996a1dcfe733b9c1e6a71d742e75ee8c523c2f8",
+				"dweb:/ipfs/QmVHd9vwWmassppeoLCTXBPuiy1LDeNUCmS7Hg5CWvJhQ1"
+			]
+		}
+	},
+	"version": 1
+}
